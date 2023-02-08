@@ -1,0 +1,6 @@
+bundles: "auto"
+excludeBundles:
+  - go:
+    - gosec
+  - python:
+    - bandit
